@@ -1,0 +1,68 @@
+header {
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+    margin: -22px auto 0 auto;
+    padding-bottom: 20px;
+    background-color: darkcyan;
+    border: 5px darkkhaki;
+    border-style: none none solid none;
+    text-align: right;
+    color: white;
+}
+
+#menu {
+    overflow: hidden;
+    margin: 20px 20px 0 auto;
+}
+
+body {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
+}
+
+h1 {
+    padding-top: 50px;
+}
+
+#contact_info {
+    background-color: wheat;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+#user_entry {
+    border: 5px darkkhaki solid;
+    border-radius: 10px;
+    width: 15%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer {
+    margin-top: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: darkcyan;
+    color: white;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
